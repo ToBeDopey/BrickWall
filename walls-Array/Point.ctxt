@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Point()
+comment0.text=\n\ Create\ a\ new\ point\ with\ random\ X\ and\ Y\ coordinates\n
+comment1.params=x\ y
+comment1.target=Point(int,\ int)
+comment1.text=\n\ Create\ a\ point\ with\ specified\ X\ and\ Y\ coordinates\n
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+numComments=4
